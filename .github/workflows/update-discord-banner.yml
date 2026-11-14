@@ -1,0 +1,59 @@
+name: Update Discord banner
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17,47 * * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: discord-banner-pages
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment: github-pages
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Render the Discord banner
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+
+          url = "https://discord.com/api/guilds/359901598639718400/widget.json"
+          request = Request(url, headers={"User-Agent": "WeebHub profile banner"})
+          with urlopen(request, timeout=20) as response:
+              count = json.load(response)["presence_count"]
+
+          if type(count) is not int or count < 0:
+              raise ValueError("Invalid Discord presence count")
+
+          template = Path("assets/weebhub-banner.svg").read_text(encoding="utf-8")
+          placeholder = ">JOIN THE SERVER</text>"
+          if template.count(placeholder) != 1:
+              raise ValueError("Expected exactly one online count placeholder")
+
+          output = Path("_site")
+          output.mkdir(exist_ok=True)
+          (output / "weebhub-banner.svg").write_text(
+              template.replace(placeholder, f">{count} ONLINE</text>"),
+              encoding="utf-8",
+          )
+          PY
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - uses: actions/deploy-pages@v4

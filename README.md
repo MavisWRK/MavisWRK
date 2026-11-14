@@ -53,6 +53,6 @@ I work on a project-by-project basis, and most of my work lives in private repos
 
 <p align="center">
   <a href="https://discord.gg/EgmUJRJRKu">
-    <img src="https://maviswrk.github.io/MavisWRK/weebhub-banner.svg" width="400" alt="Join WeebHub on Discord" />
+    <img src="./assets/weebhub-banner.svg" width="400" alt="Join WeebHub on Discord" />
   </a>
 </p>

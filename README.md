@@ -52,11 +52,7 @@ I work on a project-by-project basis, and most of my work lives in private repos
 ## Join my server!
 
 <p align="center">
-  <strong>WeebHub</strong>
-</p>
-
-<p align="center">
   <a href="https://discord.gg/EgmUJRJRKu">
-    <img src="https://discord.com/api/guilds/359901598639718400/widget.png?style=banner2" width="400" alt="Join WeebHub on Discord" />
+    <img src="https://maviswrk.github.io/MavisWRK/weebhub-banner.svg" width="400" alt="Join WeebHub on Discord" />
   </a>
 </p>

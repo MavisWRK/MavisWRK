@@ -11,6 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/bitbasher-dev">@bitbasher-dev</a>
+  ·
+  <a href="https://discord.gg/EgmUJRJRKu">Join the Discord</a>
 </p>
 
 I work on a project-by-project basis, and most of my work lives in private repositories.

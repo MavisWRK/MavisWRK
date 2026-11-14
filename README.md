@@ -13,12 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=MavisWRK&amp;label=Profile%20Views&amp;color=6c5ce7&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/EgmUJRJRKu">
-    <img src="https://discord.com/api/guilds/359901598639718400/widget.png?style=banner2" width="400" alt="Join WeebHub on Discord" />
-  </a>
-</p>
-
 I work on a project-by-project basis, and most of my work lives in private repositories.
 
 ## Tech stack
@@ -34,3 +28,13 @@ I work on a project-by-project basis, and most of my work lives in private repos
 
 - **[MVSCord-YoRHa](https://github.com/MavisWRK/MVSCord-YoRHa)** — A Discord theme for Vencord inspired by the YoRHa interface from NieR:Automata.
 - **[Mavis Music Dealer](https://github.com/MavisWRK/Mavis_MS_Dealer)** — A Discord music bot with song search, queue management, and audio filters. A fork of [DisSpaceX](https://github.com/Adivise/DisSpaceX), originally by [Nanotect (Adivise)](https://github.com/Adivise).
+
+## Join my server!
+
+<p align="center">
+  <a href="https://discord.gg/EgmUJRJRKu">
+    <img src="./assets/weebhub-banner.svg" width="400" alt="Join WeebHub on Discord" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/discord/359901598639718400?label=WeebHub&amp;color=697ec4&amp;logo=discord&amp;logoColor=white" alt="WeebHub Discord members online" />
+</p>

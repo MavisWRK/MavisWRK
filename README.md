@@ -1,19 +1,18 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mavis&fontSize=80&fontAlignY=35&animation=twinkling"
-    alt="Mavis"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:211733,50:6046A8,100:9976D9&amp;height=195&amp;section=header&amp;text=Mavis&amp;fontSize=76&amp;fontAlignY=37&amp;animation=twinkling&amp;fontColor=FFFFFF" width="100%" alt="Mavis" />
 </p>
 
 <p align="center">
-  <strong>Full-stack Developer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1400&amp;color=A982E8&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=38&amp;lines=Full-stack+Developer;Web+Apps+%26+APIs" width="420" alt="Full-stack Developer · Web Apps and APIs" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MavisWRK&amp;label=Profile%20Views&amp;color=6c5ce7&amp;style=for-the-badge" alt="Profile views" />
+  I build web apps and APIs on a project-by-project basis. Most of my work lives in private repositories.
 </p>
 
-I work on a project-by-project basis, and most of my work lives in private repositories.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MavisWRK&amp;label=Profile%20Views&amp;color=6c5ce7&amp;style=flat" alt="Profile views" />
+</p>
 
 ## Tech Stack
 
@@ -44,10 +43,15 @@ I work on a project-by-project basis, and most of my work lives in private repos
   </table>
 </div>
 
-## Public projects
+## Public Projects
 
-- **[MVSCord-YoRHa](https://github.com/MavisWRK/MVSCord-YoRHa)** — A Discord theme for Vencord inspired by the YoRHa interface from NieR:Automata.
-- **[Mavis Music Dealer](https://github.com/MavisWRK/Mavis_MS_Dealer)** — A Discord music bot with song search, queue management, and audio filters. A fork of [DisSpaceX](https://github.com/Adivise/DisSpaceX), originally by [Nanotect (Adivise)](https://github.com/Adivise).
+### [MVSCord-YoRHa](https://github.com/MavisWRK/MVSCord-YoRHa)
+
+A Discord theme for Vencord inspired by the YoRHa interface from *NieR:Automata*.
+
+### [Mavis Music Dealer](https://github.com/MavisWRK/Mavis_MS_Dealer)
+
+A Discord music bot with song search, queue management, and audio filters. Based on [DisSpaceX](https://github.com/Adivise/DisSpaceX) by [Nanotect (Adivise)](https://github.com/Adivise).
 
 ## Join my server!
 

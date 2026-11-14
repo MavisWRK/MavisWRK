@@ -11,7 +11,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MavisWRK&amp;label=Profile%20Views&amp;color=6c5ce7&amp;style=for-the-badge" alt="Profile views" />
-  <a href="https://discord.gg/EgmUJRJRKu"><img src="https://img.shields.io/badge/Join_the_Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join the Discord" /></a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/EgmUJRJRKu">
+    <img src="https://cdn.discordapp.com/icons/359901598639718400/71743a0c601151adf88a2bc3f3f81a3c.png?size=128" width="64" height="64" alt="WeebHub server icon" />
+    <br />
+    <img src="https://img.shields.io/badge/Join_WeebHub-71368A?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join WeebHub on Discord" />
+  </a>
 </p>
 
 I work on a project-by-project basis, and most of my work lives in private repositories.

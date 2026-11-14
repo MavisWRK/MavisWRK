@@ -15,14 +15,34 @@
 
 I work on a project-by-project basis, and most of my work lives in private repositories.
 
-## Tech stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&amp;logo=trpc&amp;logoColor=white" alt="tRPC" />
-  <img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <th width="260">Frontend</th>
+      <th width="260">Backend &amp; Integrations</th>
+      <th width="260">Tools</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&amp;theme=dark" alt="Next.js, React, TypeScript, and Tailwind CSS" />
+        <br />
+        Next.js · React · TypeScript<br />Tailwind CSS · Chakra UI
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&amp;theme=dark" alt="Node.js, MongoDB, and Firebase" />
+        <br />
+        Node.js · Fastify · tRPC · REST APIs<br />MongoDB · Firebase · Stripe
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,npm&amp;theme=dark" alt="Git, GitHub, and npm" />
+        <br />
+        Git · GitHub · npm
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Public projects
 

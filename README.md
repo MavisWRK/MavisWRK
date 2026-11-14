@@ -15,9 +15,7 @@
 
 <p align="center">
   <a href="https://discord.gg/EgmUJRJRKu">
-    <img src="https://cdn.discordapp.com/icons/359901598639718400/71743a0c601151adf88a2bc3f3f81a3c.png?size=128" width="64" height="64" alt="WeebHub server icon" />
-    <br />
-    <img src="https://img.shields.io/badge/Join_WeebHub-71368A?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join WeebHub on Discord" />
+    <img src="https://discord.com/api/guilds/359901598639718400/widget.png?style=banner2" width="400" alt="Join WeebHub on Discord" />
   </a>
 </p>
 

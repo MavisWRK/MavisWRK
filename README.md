@@ -6,14 +6,24 @@
 </p>
 
 <p align="center">
-  <strong>Full-stack Developer</strong> · React, TypeScript, tRPC &amp; MongoDB
+  <strong>Full-stack Developer</strong>
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/EgmUJRJRKu">Join the Discord</a>
+  <img src="https://komarev.com/ghpvc/?username=MavisWRK&amp;label=Profile%20Views&amp;color=6c5ce7&amp;style=for-the-badge" alt="Profile views" />
+  <a href="https://discord.gg/EgmUJRJRKu"><img src="https://img.shields.io/badge/Join_the_Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join the Discord" /></a>
 </p>
 
 I work on a project-by-project basis, and most of my work lives in private repositories.
+
+## Tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&amp;logo=trpc&amp;logoColor=white" alt="tRPC" />
+  <img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+</p>
 
 ## Public projects
 

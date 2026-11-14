@@ -32,9 +32,11 @@ I work on a project-by-project basis, and most of my work lives in private repos
 ## Join my server!
 
 <p align="center">
+  <strong>WeebHub</strong>
+</p>
+
+<p align="center">
   <a href="https://discord.gg/EgmUJRJRKu">
-    <img src="./assets/weebhub-banner.svg" width="400" alt="Join WeebHub on Discord" />
+    <img src="https://discord.com/api/guilds/359901598639718400/widget.png?style=banner2" width="400" alt="Join WeebHub on Discord" />
   </a>
-  <br />
-  <img src="https://img.shields.io/discord/359901598639718400?label=WeebHub&amp;color=697ec4&amp;logo=discord&amp;logoColor=white" alt="WeebHub Discord members online" />
 </p>
